@@ -1,0 +1,70 @@
+Vendor 1 Information:
+Vendor ID: b99ab013-d2df-4d69-8eb3-cd179d0ed600
+Total Tickets: 1
+Ticket Release Rate: 1
+Customer Retrieval Rate: 1
+Max Ticket Capacity: 1
+
+Vendor 2 Information:
+Vendor ID: 0a3a1d59-e681-48e0-80bb-bb159350485a
+Total Tickets: 2
+Ticket Release Rate: 2
+Customer Retrieval Rate: 2
+Max Ticket Capacity: 2
+
+Vendor 3 Information:
+Vendor ID: bef533b6-fa41-4d10-9f85-679f5397d4f1
+Total Tickets: 23
+Ticket Release Rate: 45
+Customer Retrieval Rate: 34
+Max Ticket Capacity: 23
+
+Vendor 4 Information:
+Vendor ID: 056cd7ef-cfba-4f27-a2b2-a3dcc2701ff3
+Total Tickets: 1
+Ticket Release Rate: 2
+Customer Retrieval Rate: 3
+Max Ticket Capacity: 4
+
+Vendor 5 Information:
+Vendor ID: 35822f6c-6cc9-44f0-a9e4-edb7c5e51bd0
+Total Tickets: 2
+Ticket Release Rate: 2
+Customer Retrieval Rate: 2
+Max Ticket Capacity: 2
+
+Vendor 6 Information:
+Vendor ID: 48b8b972-8195-47ee-ad5b-2a67e825b003
+Total Tickets: 2
+Ticket Release Rate: 2
+Customer Retrieval Rate: 2
+Max Ticket Capacity: 12
+
+Vendor 7 Information:
+Vendor ID: 40262f27-5ae5-448c-a918-ed6ec569262c
+Total Tickets: 10
+Ticket Release Rate: 5
+Customer Retrieval Rate: 10
+Max Ticket Capacity: 15
+
+Vendor 8 Information:
+Vendor ID: 7bdbf2dc-8660-45b8-9f01-16a95a4cdefe
+Total Tickets: 15
+Ticket Release Rate: 2
+Customer Retrieval Rate: 2
+Max Ticket Capacity: 10
+
+Vendor 9 Information:
+Vendor ID: 4debe5c5-e2ef-482c-8c46-cc1c21d96aeb
+Total Tickets: 10
+Ticket Release Rate: 5
+Customer Retrieval Rate: 1
+Max Ticket Capacity: 8
+
+Vendor 10 Information:
+Vendor ID: 322da79c-ebf2-42f2-987c-8bfe5f6f2d13
+Total Tickets: 10
+Ticket Release Rate: 2
+Customer Retrieval Rate: 2
+Max Ticket Capacity: 5
+
